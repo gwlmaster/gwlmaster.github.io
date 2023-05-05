@@ -7,7 +7,16 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>Copyright © 2008–2019, Steve Francia and the lee.so; all rights reserved.</copyright>
-    <lastBuildDate>Fri, 05 May 2023 03:54:49 +0800</lastBuildDate><atom:link href="https://blog.gwlmaster.top/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 06 May 2023 02:51:33 +0800</lastBuildDate><atom:link href="https://blog.gwlmaster.top/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My Second Page</title>
+      <link>https://blog.gwlmaster.top/post/my-second-page/</link>
+      <pubDate>Sat, 06 May 2023 02:51:33 +0800</pubDate>
+      
+      <guid>https://blog.gwlmaster.top/post/my-second-page/</guid>
+      <description>This is my second page. hello world!</description>
+    </item>
+    
     <item>
       <title>My First Page</title>
       <link>https://blog.gwlmaster.top/post/my-first-page/</link>
